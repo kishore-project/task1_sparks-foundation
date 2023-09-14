@@ -13,7 +13,19 @@ Database contains two Tables- Users Table & Transaction Table
 
 Flow of the Website: Home Page > View all Users > Select and View one User > Transfer Money > Select reciever > View all Users > View Transfer History.
 
-Website link:-
+Website link: http://task1.42web.io/
 
 
-http://task1.42web.io/
+# TSF-intern-task3 
+
+ Payment gateway integration
+
+Frontend: HTML, CSS, JavaScript
+
+Payment gateway: Razorpay
+
+Git Repository:  https://github.com/kishore-project/task-3-payment-getway.git
+
+Link to site: https://kishore-project.github.io/task-3-payment-getway/donate.html
+
+Youtube video:  https://youtu.be/Pn0qKo6VMa0
