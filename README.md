@@ -30,8 +30,8 @@ Link to site: https://kishore-project.github.io/task-3-payment-getway/donate.htm
 
 Youtube video:  https://youtu.be/Pn0qKo6VMa0
 
-# Task 4 & 6. TESTING AUTOMATION & CLOUD COMPUTING 
+# Task 2, 4 & 6. BANKING APP  TESTING AUTOMATION & CLOUD COMPUTING 
 
-Git Repository:  https://github.com/kishore-project/Task-4-6-the-spark-foundation-.git
+Git Repository:  https://github.com/kishore-project/Task2-4-6-the-spark-foundation-.git
 
 YouTube link : https://youtu.be/Pro7LGMSSI0?feature=shared
